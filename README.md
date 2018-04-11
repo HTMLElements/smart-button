@@ -6,6 +6,8 @@
 |
 [Documentation ↗](http://www.htmlelements.com/docs/)
 
+[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-html-elements-core)
+
 [&lt;smart-button&gt;](http://htmlelements.com/demos/button/) is a Custom HTML Element providing an alternative of the standard button, part of the [Smart HTML Elements](https://htmlelements.com/).
 
 <!--
