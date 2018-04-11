@@ -17,6 +17,7 @@
     "**/tests"
   ],
   "dependencies": {
-    "webcomponentsjs": "^1.0.0"
+    "webcomponentsjs": "^1.0.0",
+    "@smarthtmlelements/smart-html-elements-core": "^1.0.0"
   }
 }
