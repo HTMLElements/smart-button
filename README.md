@@ -31,7 +31,9 @@
 Smart HTML Elements components documentation includes getting started, customization and api documentation topics.
 
 [Getting Started Documentation](http://www.htmlelements.com/docs/button/)
+|
 [CSS Documentation](http://www.htmlelements.com/docs/button-css/)
+|
 [API Documentation](http://www.htmlelements.com/docs/button-api/)
 
 
