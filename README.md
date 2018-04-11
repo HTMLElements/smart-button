@@ -41,11 +41,11 @@ Smart HTML Elements components documentation includes getting started, customiza
 
   Javascript files.
 
-- `source-minified/styles`
+- `source-minified/styles/`
 
   Component CSS Files.
 
-- `demos`
+- `demos/`
 
   Demo files
 
