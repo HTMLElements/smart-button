@@ -8,7 +8,7 @@
 |
 [Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-html-elements-core)
 
-[&lt;smart-button&gt;](http://htmlelements.com/demos/button/) is a Custom HTML Element providing an alternative of the standard button, part of the [Smart HTML Elements](https://htmlelements.com/).
+[&lt;smart-button&gt;](http://htmlelements.com/demos/button/) is a Custom HTML Element providing an alternative of the standard button, part of the [Smart HTML Elements](http://htmlelements.com/).
 
 <!--
 ```
@@ -24,7 +24,7 @@
 <smart-button class="material">Click Me</smart-button>
 ```
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-button/master/smart-button.gif" alt="Screenshot of smart-button, using the Material theme">](https://htmlelements.com/demos/button)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-button/master/smart-button.gif" alt="Screenshot of smart-button, using the Material theme">](http://htmlelements.com/demos/button)
 
 ## Getting Started
 
