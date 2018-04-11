@@ -5,8 +5,10 @@
 [Live Demo ↗](http://htmlelements.com/demos/button/)
 |
 [Documentation ↗](http://www.htmlelements.com/docs/)
+|
+[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-html-elements-core)
 
-[&lt;smart-button&gt;](http://htmlelements.com/demos/button/) is a Custom HTML Element providing an alternative of the standard button, part of the [Smart HTML Elements](https://htmlelements.com/).
+[&lt;smart-button&gt;](http://htmlelements.com/demos/button/) is a Custom HTML Element providing an alternative of the standard button, part of the [Smart HTML Elements](http://htmlelements.com/).
 
 <!--
 ```
@@ -22,14 +24,16 @@
 <smart-button class="material">Click Me</smart-button>
 ```
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-button/master/smart-button.gif" alt="Screenshot of smart-button, using the Material theme">](https://htmlelements.com/demos/button)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-button/master/smart-button.gif" alt="Screenshot of smart-button, using the Material theme">](http://htmlelements.com/demos/button)
 
 ## Getting Started
 
 Smart HTML Elements components documentation includes getting started, customization and api documentation topics.
 
 [Getting Started Documentation](http://www.htmlelements.com/docs/button/)
+|
 [CSS Documentation](http://www.htmlelements.com/docs/button-css/)
+|
 [API Documentation](http://www.htmlelements.com/docs/button-api/)
 
 
@@ -39,11 +43,11 @@ Smart HTML Elements components documentation includes getting started, customiza
 
   Javascript files.
 
-- `source-minified/styles`
+- `source-minified/styles/`
 
   Component CSS Files.
 
-- `demos`
+- `demos/`
 
   Demo files
 

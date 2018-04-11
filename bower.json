@@ -17,6 +17,9 @@
     "**/tests"
   ],
   "dependencies": {
+<<<<<<< HEAD
     "webcomponentsjs": "^1.0.0"
+=======
+>>>>>>> origin/master
   }
 }
