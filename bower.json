@@ -1,31 +1,22 @@
 {
-  "name": smart-button",
-  "homepage": "http://htmlelements.com/",
+  "name": "smart-button",
   "authors": [
     "jQWidgets Ltd"
   ],
-  "description": "smart-button",
-  "main": "smart-button.html",
-  "keywords": [
-    "SmartHTMLElements",
-    "button",
-    "web-components",
-    "web-component",
-  ],
+  "description": "Smart Button is a free HTML Button Element, built using native Javascript and CSS.",
   "license": "Apache-2.0",
+  "keywords": [
+    "smart button",
+    "button"
+  ],
+  "main": "",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "gulpfile.js",
-    "package-lock.json",
-    "wct.conf.js"
+    "**/node_modules",
+    "**/bower_components",
+    "**/tests"
   ],
-  "devDependencies": {
-    "webcomponentsjs": "^1.0.0",
-    "web-component-tester": "^6.1.5"
-  },
   "dependencies": {
-
+    "webcomponentsjs": "^1.0.0"
   }
 }
