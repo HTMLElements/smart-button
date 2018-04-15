@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-button",
-  "version": "1.0.1",
+  "version": "1.0.9",
   "description": "Smart Button",
    "scripts": { 
   },
@@ -24,12 +24,18 @@
   "main": "index.js",
   "directories": {},
   "keywords": [
-    "custom",
-    "element",
+	"custom",
+	"element",
 	"button custom element",
-    "html button",
-    "button",
+	"html button",
+	"button",
 	"web components button",
-    "button element"
+	"button element",
+	"buttons",
+	"custom button",
+	"button widget",
+	"button ui",
+	"button component",
+	"button control"	  
   ]
 }
