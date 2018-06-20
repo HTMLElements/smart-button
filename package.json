@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-button",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Smart Button",
    "scripts": { 
   },
@@ -9,7 +9,7 @@
     "url": "git+https://github.com/HTMLElements/smart-button.git"
   },
   "author": "Smart HTML Elements",
-  "license": "SEE LICENSE IN http://www.htmlelements.com/pricing/",
+  "license": "SEE LICENSE IN http://www.htmlelements.com/license/",
   "bugs": {
     "url": "https://github.com/HTMLElements/smart-button"
   },
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22",
-	"@smarthtmlelements/smarthtmlelements-core": "^1.0.1"
+	"@smarthtmlelements/smarthtmlelements-core": "^1.1.0"
   },
   "main": "index.js",
   "directories": {},
