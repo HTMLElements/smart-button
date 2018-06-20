@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22",
-	"@smarthtmlelements/smarthtmlelements-core": "^1.1.0"
+	"@smarthtmlelements/smart-core": "^1.1.0"
   },
   "main": "index.js",
   "directories": {},

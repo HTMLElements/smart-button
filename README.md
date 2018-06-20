@@ -6,7 +6,7 @@
 |
 [Documentation ↗](https://www.htmlelements.com/docs/)
 |
-[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-html-elements-core)
+[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-core)
 
 [&lt;smart-button&gt;](http://htmlelements.com/demos/button/) is a Custom HTML Element providing an alternative of the standard button, part of the [Smart HTML Elements](https://htmlelements.com/).
 
@@ -15,10 +15,10 @@
 <custom-element-demo>
   <template>
     <script src="../webcomponentsjs/webcomponents-lite.js"></script>
-    <script src="../smarthtmlelements-core/source/smart.element.js"></script>
-    <script src="../smarthtmlelements-core/source/smart.button.js"></script>
-    <link rel="stylesheet" href="../smarthtmlelements-core/source/styles/smart.base.css" type="text/css" />
-    <link rel="stylesheet" href="../smarthtmlelements-core/source/styles/smart.material.css" type="text/css" />
+    <script src="../smart-core/source/smart.element.js"></script>
+    <script src="../smart-core/source/smart.button.js"></script>
+    <link rel="stylesheet" href="../smart-core/source/styles/smart.base.css" type="text/css" />
+    <link rel="stylesheet" href="../smart-core/source/styles/smart.material.css" type="text/css" />
      <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
