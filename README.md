@@ -6,7 +6,11 @@
 |
 [Documentation ↗](https://www.htmlelements.com/docs/)
 |
+<<<<<<< HEAD
 [Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smart-core)
+=======
+[Installation ↗](https://www.npmjs.com/package/@smarthtmlelements/smarthtmlelements-core)
+>>>>>>> origin/master
 
 [&lt;smart-button&gt;](http://htmlelements.com/demos/button/) is a Custom HTML Element providing an alternative of the standard button, part of the [Smart HTML Elements](https://htmlelements.com/).
 
@@ -15,10 +19,19 @@
 <custom-element-demo>
   <template>
     <script src="../webcomponentsjs/webcomponents-lite.js"></script>
+<<<<<<< HEAD
     <script src="../smart-core/source/smart.element.js"></script>
     <script src="../smart-core/source/smart.button.js"></script>
     <link rel="stylesheet" href="../smart-core/source/styles/smart.base.css" type="text/css" />
     <link rel="stylesheet" href="../smart-core/source/styles/smart.material.css" type="text/css" />
+=======
+    <script src="../smart-core/source-minified/native-shim.js"></script>
+    <script src="../smart-core/source-minified/smart.element-polyfills.js"></script>
+    <script src="../smart-core/source-minified/smart.element.js"></script>
+    <script src="../smart-core/source-minified/smart.button.js"></script>
+    <link rel="stylesheet" href="../smart-core/source-minified/styles/smart.base.css" type="text/css" />
+    <link rel="stylesheet" href="../smart-core/source-minified/styles/smart.material.css" type="text/css" />
+>>>>>>> origin/master
      <next-code-block></next-code-block>
   </template>
 </custom-element-demo>

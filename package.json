@@ -1,6 +1,10 @@
 {
   "name": "@smarthtmlelements/smart-button",
+<<<<<<< HEAD
   "version": "1.1.0",
+=======
+  "version": "1.0.10",
+>>>>>>> origin/master
   "description": "Smart Button",
    "scripts": { 
   },
@@ -19,17 +23,27 @@
   },
   "dependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.22",
+<<<<<<< HEAD
 	"@smarthtmlelements/smart-core": "^1.1.0"
+=======
+    "@smarthtmlelements/smart-core": "^1.0.1"
+>>>>>>> origin/master
   },
   "main": "index.js",
   "directories": {},
   "keywords": [
-    "custom",
-    "element",
+	"custom",
+	"element",
 	"button custom element",
-    "html button",
-    "button",
+	"html button",
+	"button",
 	"web components button",
-    "button element"
+	"button element",
+	"buttons",
+	"custom button",
+	"button widget",
+	"button ui",
+	"button component",
+	"button control"	  
   ]
 }
